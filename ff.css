@@ -1,0 +1,137 @@
+  body{
+    font-family: sans-serif;
+    margin:0px;
+  }
+  
+  #logo{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 50px;
+  }
+  #head{
+    text-align: center;
+    margin-bottom: 0px;
+    color: rgb(4, 51, 4);
+    margin-top: 0px;
+  }
+  #head2{
+    text-align: center;
+    margin-top: 0px;
+    color-scheme:rgb(0, 0, 0);
+}
+#head3{
+  text-align: center;
+  margin-top: 3px;
+  color-scheme:rgb(0, 0, 0);
+}
+.navbar{
+  background-color: rgb(239, 242, 247);
+  width: 100%;
+  height: fit-content;
+  margin-top: 0px;
+}
+#vg{
+  text-align: center;
+
+}
+.fr4{
+  width:100%;
+  height:fit-content;
+  margin-bottom: 20px;
+  
+  background-color: beige;
+}
+.fr42{
+  width:100%;
+  height:fit-content;
+  margin-bottom: 20px;
+  
+  background-color: rgb(247, 239, 202);
+}
+#fggt{
+  width: 100%;
+  height: fit-content;
+  background-color: rgb(224, 245, 249);
+  position: absolute;
+  margin-bottom: 0px;
+  margin-top: 150px;
+
+}
+p{
+  margin-bottom:0;
+  margin-top: 0;
+  text-align: center;
+}
+#kkl{
+  margin-top: 20px;
+  color: rgb(169, 167, 167);
+
+}
+.kio{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hj{
+  
+  margin-left: 60px;
+
+}
+#college{
+  display: flex;
+  margin-left: 0px;
+}
+#nit{
+  width:50%;
+  text-align: center;
+}
+#ku{
+  width:50%;
+  margin-left: 0px;
+  text-align: center;
+}
+#civilink{
+  float: right;
+}
+#nithead{
+  margin:0px;
+  margin-bottom: 10px;
+  
+
+}
+#uiet{
+  margin:0px;
+  margin-bottom: 10px;
+  
+  
+}
+h3{
+  margin:0px;
+}
+#fr43{
+  width:100%;
+  
+  text-align: center;
+}
+#aboutus{
+  display: flex;
+  align-items: center;
+}
+#aboutuso{
+  text-align: center;
+  width:50%;
+  margin-left: 50px;
+}
+#regards{
+  font-size: larger;
+}
+a{
+  text-decoration: none;
+}
+#loho{
+  align-items: center;
+  margin-left: 100px;
+  width: 50%;
+}

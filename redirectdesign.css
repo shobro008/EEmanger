@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+}
+#semsel{
+    display: flex;
+    align-content: center;
+    
+    
+}
+#semesters{
+    width:50%;
+   text-align: center;
+   height:50%;
+}
+#logo{
+    margin-left:100px;
+    height: 50%;
+    align-items: center;
+}
+#lodo{
+    height:150px;
+    margin-top: 25%;
+    margin-left: 20px;
+}
